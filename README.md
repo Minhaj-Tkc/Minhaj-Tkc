@@ -11,8 +11,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Minhaj-Tkc)](https://git.io/streak-stats)
 
----
 
-### 👀 Profile Visitors Count
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Minhaj-Tkc.Minhaj-Tkc)
