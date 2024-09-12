@@ -11,13 +11,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Minhaj-Tkc&theme=dark)](https://git.io/streak-stats)
 
-### 📊 GitHub Stats
 
-[![Minhaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minhaj-Tkc&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Minhaj-Tkc&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
