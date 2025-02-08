@@ -11,7 +11,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Minhaj-Tkc)](https://git.io/streak-stats) --->
 
-![Snake Game](https://raw.githubusercontent.com/Minhaj-Tkc/Assets/refs/heads/main/github-contribution-grid-snake.svg)
+![Snak Game](https://raw.githubusercontent.com/Minhaj-Tkc/Assets/refs/heads/main/github-contribution-grid-snake.svg)
 
 <!--- [![](https://visitcount.itsvg.in/api?id=Minhaj-Tkc&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in) --->
 
