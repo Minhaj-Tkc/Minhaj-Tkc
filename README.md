@@ -7,7 +7,7 @@
 
 ---
 
-<!--- ### 🔥 GitHub Streak Stats
+<!--- ### 🔥 GitHub Streak Stat
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Minhaj-Tkc)](https://git.io/streak-stats) --->
 
